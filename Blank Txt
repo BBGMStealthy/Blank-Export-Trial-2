@@ -1,0 +1,16 @@
+{
+  "version": 33,
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Atlanta",
+      "name": "Herons",
+      "abbrev": "ATL",
+      "pop": 5.4,
+      "stadiumCapacity": 25000
+    },
+    ...
+  ]
+}
